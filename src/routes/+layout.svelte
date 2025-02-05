@@ -14,7 +14,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/1b/pagina">Pokémons</a>
+                    <a class="nav-link" href="/pagina">Pokémons</a>
                 </li>
             </ul>
         </div>
